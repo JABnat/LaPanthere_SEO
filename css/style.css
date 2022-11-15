@@ -55,6 +55,7 @@ a:hover {
 .col-sm-6 img {
   height: 250px;
   width: 250px;
+  margin: 0 auto;
 }
 .bloc-lg {
   padding: 100px 50px;
@@ -739,11 +740,11 @@ h3 {
 }
 
 h1 {
-  color: #333333 !important;
+  color: #ededed !important;
 }
 
 h4 {
-  color: #333333 !important;
+  color: #ededed !important;
 }
 
 .icons {
@@ -790,8 +791,12 @@ h4 {
   background-color: #f3976c;
 }
 
-.tc-white {
-  color: #371306 !important;
+.text-center-tc-white {
+  color: #fbe6da !important;
+}
+
+h1 .tc-white {
+  color: #212121;
 }
 
 .btn-atomic-tangerine {
