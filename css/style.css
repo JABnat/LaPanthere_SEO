@@ -6,6 +6,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+a:focus {
+  display: inline-block;
+  border: 2px solid blue;
+  padding: 10px;
+}
+
 .header-logo {
   padding: 0 7%;
 }
@@ -784,7 +791,7 @@ h4 {
 }
 
 .tc-white {
-  color: #fbe4df !important;
+  color: #371306 !important;
 }
 
 .btn-atomic-tangerine {
